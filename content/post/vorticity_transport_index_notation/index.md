@@ -147,7 +147,7 @@ $$ \begin{align}
   \underbrace{\varepsilon_{k\ell i} \partial_\ell
         \nu \partial_j^2 u_i}_\text{Viscous Term} \\\\
 \Rightarrow \quad \mathbb{T} + \mathbb{A} & = \mathbb{P} + \mathbb{V}
-\end{align}$$
+\end{align} $$
 
 We'll treat the named terms individually, then put them back together. I'll
 leave the advection term for last since it's more involved than the other
